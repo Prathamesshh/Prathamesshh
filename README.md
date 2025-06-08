@@ -17,7 +17,7 @@
 
 ## 🚀 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesshh&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesshh&layout=compact&theme=dracula)
 
 ---
 
