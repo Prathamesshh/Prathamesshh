@@ -17,15 +17,18 @@
 
 ## 🚀 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesshh&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesshh&layout=compact&theme=)
 
 ---
 
 ## 🏆 GitHub Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prathamesshh&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prathamesshh&theme=tokyonight)
 
 ---
+
+![GitHub followers](https://img.shields.io/github/followers/Prathamesshh?label=Followers&style=social)
+
 
 ## 💡 Fun Fact
 I speak fluent code and sarcasm 😉
