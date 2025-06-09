@@ -2,10 +2,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science & Engineering Student  
-- 🚀 Passionate about building full-stack apps and exploring AI  
-- 🌱 Always learning something new  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prathamesh-kurekar-68b48925b/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CSE+Undergrad+Student+%F0%9F%93%93;Full-stack+enthusiast+%26+AI+explorer+%F0%9F%9A%80;Always+learning+something+new+%F0%9F%8C%B1;Let's+connect+on+LinkedIn!+%F0%9F%91%AB)](https://www.linkedin.com/in/prathamesh-kurekar-68b48925b/)
+
 
 ---
 
