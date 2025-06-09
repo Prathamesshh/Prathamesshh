@@ -5,7 +5,6 @@
 - 🎓 CSE Undergrad Student  
 - 🌐 Full-Stack Enthusiast & Exploring AI & Machine Learning with Python  
 - 🌱 Always learning something new
-- 📫 Reach me here: [LinkedIn](https://www.linkedin.com/in/prathamesh-kurekar-68b48925b/)
 
 ---
 
