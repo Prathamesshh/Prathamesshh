@@ -1,11 +1,10 @@
 <h1 align="center">Hi there, I'm Prathamesh Kurekar 👋</h1>
 
----
 
 ### 🧑‍💻 About Me
-- 🎓 CSE Undergrad | Passionate techie & lifelong learner  
-- 🌐 I build web apps with React, JS, and powerful backends  
-- 🤖 Exploring AI & machine learning with Python  
+- 🎓 CSE Undergrad Student  
+- 🌐 Full-Stack Enthusiast & Exploring AI & Machine Learning with Python  
+- 🌱 Always learning something new
 - 📫 Reach me here: [LinkedIn](https://www.linkedin.com/in/prathamesh-kurekar-68b48925b/)
 
 ---
