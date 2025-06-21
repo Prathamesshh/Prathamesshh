@@ -1,10 +1,14 @@
 <h1 align="center">Hi there, I'm Prathamesh Kurekar 👋</h1>
 
+---
 
-### 🧑‍💻 About Me
-- 🎓 CSE Undergrad Student  
-- 🌐 Full-Stack Enthusiast & Exploring AI & Machine Learning with Python  
-- 🌱 Always learning something new
+<h3 align="center">🧑‍💻 About Me</h3>
+
+<p align="center">
+  🎓 CSE Undergrad Student <br>
+  🌐 Full-Stack Enthusiast exploring AI & ML with Python <br>
+  🌱 Always learning something new
+</p>
 
 ---
 
@@ -23,19 +27,31 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesshh&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" height="170"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prathamesshh&show_icons=true&theme=dracula&border_radius=10" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesshh&layout=compact&theme=tokyonight&border_radius=10" height="170"/>
 </div>
 
 ---
 
 ### 🔥 Streaks & Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prathamesshh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=Prathamesshh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border_radius=10"/>
 </p>
 
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prathamesshh&theme=onedark&row=1&column=6" />
+</p>
 
 ---
 
