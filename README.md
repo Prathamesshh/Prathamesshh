@@ -2,9 +2,9 @@
 
 ---
 
-<h3 align="center">🧑‍💻 About Me</h3>
+<h3 >🧑‍💻 About Me</h3>
 
-<p align="center">
+<p>
   🎓 CSE Undergrad Student <br>
   🌐 Full-Stack Enthusiast exploring AI & ML with Python <br>
   🌱 Always learning something new
