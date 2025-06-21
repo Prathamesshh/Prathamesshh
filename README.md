@@ -27,14 +27,14 @@
 
 ---
 
-### 📊 Most Used Languages and GitHub Stats
+### 📊GitHub Stats
+<div align="center">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesshh&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" height="170"/>
 </p>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prathamesshh&show_icons=true&theme=dracula&border_radius=10" height="170"/>
 </div>
+
 
 ---
 
