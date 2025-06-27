@@ -6,7 +6,7 @@
 
 <p>
   🎓 CSE Undergrad Student <br>
-  🌐 Full-Stack Enthusiast exploring AI & ML with Python <br>
+  🌐 Full-Stack Enthusiast exploring AI & ML <br>
   🌱 Always learning something new
 </p>
 
