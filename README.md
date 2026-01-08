@@ -34,8 +34,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathamesshh&show_icons=true&theme=dracula&border_radius=10" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesshh&layout=compact&theme=tokyonight&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prathamesshh&show_icons=true&theme=dracula" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prathamesshh&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -43,15 +43,15 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prathamesshh&theme=tokyonight&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=prathamesshh&theme=tokyonight"/>
 </p>
-
 ---
+
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prathamesshh&theme=onedark&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=prathamesshh&theme=onedark&no-frame=true"/>
 </p>
 
 ---
