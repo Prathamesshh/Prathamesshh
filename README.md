@@ -45,8 +45,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=prathamesshh&theme=tokyonight"/>
 </p>
----
 
+---
 
 ## 🏆 GitHub Trophies
 
