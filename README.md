@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Prathamesh Kurekar 👋</h1>
 
 <p align="center">
-  <b>CSE Undergrad | Full-Stack Developer | AI/ML Enthusiast</b>
+  <b>CSE Undergrad | Developer | AI/ML Enthusiast</b>
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Computer Science Engineering Undergraduate  
-- 🌐 Full-Stack Developer exploring AI & Machine Learning  
+- 🌐 Developer exploring AI & Machine Learning  
 - 🌱 Always learning something new  
 - 🚀 Passionate about building real-world projects  
 
