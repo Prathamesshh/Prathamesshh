@@ -103,14 +103,6 @@ Goal        : Build impactful software used by millions
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prathamesshh&theme=onedark&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
