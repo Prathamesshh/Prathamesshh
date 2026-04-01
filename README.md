@@ -26,19 +26,19 @@
 ## 🧠 AI Developer Dashboard
 
 ```yaml
-name        : Prathamesh Kurekar
-role        : Computer Science Engineering Student
-location    : India
-focus       :
+Name        : Prathamesh Kurekar
+Role        : Computer Science Engineering Student
+Location    : India
+Focus       :
   - Artificial Intelligence
   - Machine Learning
   - Full Stack Development
   - Open Source
-learning    :
+Learning    :
   - Deep Learning
   - System Design
   - Scalable Web Applications
-goal        : Build impactful software used by millions
+Goal        : Build impactful software used by millions
 ```
 
 ---
@@ -78,23 +78,14 @@ goal        : Build impactful software used by millions
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 🤖 [Deepfake Detection System](#) | AI system to detect manipulated videos using deep learning | Python, TensorFlow, OpenCV | ✅ Complete |
+| 🤖 [Deepfake Detection System](#) | AI system to detect manipulated videos using deep learning | Python, TensorFlow, OpenCV | 🔄 Ongoing |
 | 🧠 [Next Word Prediction](#) | NLP model using RNN/LSTM for sequence prediction | TensorFlow, Keras, NLP | ✅ Complete |
-| 🏙 [Smart City IoT Review](#) | Research paper on scalable IoT architecture for smart cities | IoT, Research | 📄 Published |
+| 🏙 [Smart City IoT Review](#) | Research paper on scalable IoT architecture for smart cities | IoT, Research | 🔄 In Progress |
 | 🌐 [Full Stack Web Apps](#) | Interactive websites and dashboards with modern UI | React, JavaScript, CSS | 🔄 Ongoing |
 
-> 💡 *Replace the `(#)` links above with your actual repository URLs!*
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=prathamesshh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesshh&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🔥 Contribution Streak
 
@@ -157,16 +148,6 @@ while (alive) {
 🔲 Advanced NLP Techniques
 🔲 Cloud Deployment (AWS / GCP)
 ```
-
----
-
-## 🎯 2025 Goals
-
-- [ ] 🌟 Contribute to 5+ open source projects
-- [ ] 🤖 Build and deploy a production AI application
-- [ ] 📖 Publish a technical blog or article
-- [ ] 🏆 Solve 500+ LeetCode problems
-- [ ] 🎓 Complete a Deep Learning specialization
 
 ---
 
