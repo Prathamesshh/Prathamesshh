@@ -1,186 +1,145 @@
-```{=html}
 <!-- ===================================================== -->
-```
-```{=html}
 <!--                TERMINAL STYLE HEADER                  -->
-```
-```{=html}
 <!-- ===================================================== -->
-```
-```{=html}
-<h1 align="center">
-```
-💻 prathamesh@github
-```{=html}
-</h1>
-```
-```{=html}
+
+<h1 align="center">💻 prathamesh@github</h1>
+
 <p align="center">
-```
-`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Booting+Developer+Profile...;Full+Stack+Developer;AI+%26+Machine+Learning+Explorer;Open+Source+Contributor;Building+Real+World+Projects;Always+Learning+New+Things"/>`{=html}
-```{=html}
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Booting+Developer+Profile...;Full+Stack+Developer;AI+%26+Machine+Learning+Explorer;Open+Source+Contributor;Building+Real+World+Projects;Always+Learning+New+Things"/>
 </p>
-```
-    > initializing developer_profile.exe
-    > loading skills...
-    > loading projects...
-    > launching dashboard...
 
-```{=html}
+```
+> initializing developer_profile.exe
+> loading skills................. ✔
+> loading projects............... ✔
+> launching dashboard............ ✔
+```
+
 <p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=prathamesshh&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/github/followers/prathamesshh?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/github/stars/prathamesshh?style=for-the-badge"/>`{=html}
-```{=html}
+  <img src="https://komarev.com/ghpvc/?username=prathamesshh&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/prathamesshh?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/prathamesshh?style=for-the-badge"/>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-# 🧠 AI Developer Dashboard
+## 🧠 AI Developer Dashboard
 
-``` yaml
-name: Prathamesh Kurekar
-role: Computer Science Engineering Student
-location: India
-focus:
+```yaml
+name        : Prathamesh Kurekar
+role        : Computer Science Engineering Student
+location    : India
+focus       :
   - Artificial Intelligence
   - Machine Learning
   - Full Stack Development
   - Open Source
-currently_learning:
+learning    :
   - Deep Learning
   - System Design
   - Scalable Web Applications
-goal: Build impactful software used by millions
+goal        : Build impactful software used by millions
 ```
 
-------------------------------------------------------------------------
+---
 
-# 🧠 Developer Mindset
+## 💡 Developer Mindset
 
-> "Code is not just instructions for machines --- it's a tool to solve
-> real human problems."
+> *"Code is not just instructions for machines — it's a tool to solve real human problems."*
 
-✔ Build meaningful products\
-✔ Learn faster than technology evolves\
-✔ Focus on scalable systems\
-✔ Turn ideas into working software
+| Principle | Description |
+|-----------|-------------|
+| 🏗 Build | Create meaningful products that make a difference |
+| 📚 Learn | Stay ahead of the evolving tech landscape |
+| ⚙️ Scale | Design systems built to grow |
+| 🚀 Ship | Turn ideas into working software |
 
-------------------------------------------------------------------------
+---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-```{=html}
 <p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,c,java,python,mysql,tensorflow,git,github,vscode&perline=6"/>`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,c,java,python,mysql,tensorflow,git,github,vscode&perline=7"/>
 </p>
-```
 
-------------------------------------------------------------------------
-
-# 🚀 Featured Projects
-
-  ------------------------------------------------------------------------
-  Project             Description                         Tech
-  ------------------- ----------------------------------- ----------------
-  🤖 Deepfake         AI system to detect manipulated     Python, Deep
-  Detection System    videos                              Learning
-
-  🧠 Next Word        NLP model using RNN/LSTM            TensorFlow
-  Prediction                                              
-
-  🏙 Smart City IoT    Research paper on IoT architecture  IoT
-  Review                                                  
-
-  🌐 Full Stack Web   Interactive websites and dashboards React,
-  Apps                                                    JavaScript
-  ------------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-# 📊 GitHub Analytics
-
-```{=html}
 <p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=prathamesshh&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesshh&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-# 🔥 Contribution Streak
+## 🚀 Featured Projects
 
-```{=html}
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| 🤖 [Deepfake Detection System](#) | AI system to detect manipulated videos using deep learning | Python, TensorFlow, OpenCV | ✅ Complete |
+| 🧠 [Next Word Prediction](#) | NLP model using RNN/LSTM for sequence prediction | TensorFlow, Keras, NLP | ✅ Complete |
+| 🏙 [Smart City IoT Review](#) | Research paper on scalable IoT architecture for smart cities | IoT, Research | 📄 Published |
+| 🌐 [Full Stack Web Apps](#) | Interactive websites and dashboards with modern UI | React, JavaScript, CSS | 🔄 Ongoing |
+
+> 💡 *Replace the `(#)` links above with your actual repository URLs!*
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=prathamesshh&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=prathamesshh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesshh&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-# 📈 GitHub Activity Graph
+## 🔥 Contribution Streak
 
-```{=html}
 <p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamesshh&theme=tokyo-night"/>`{=html}
-```{=html}
+  <img src="https://streak-stats.demolab.com?user=prathamesshh&theme=tokyonight&hide_border=true"/>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-# 🏆 GitHub Achievements
+## 📈 Activity Graph
 
-```{=html}
 <p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=prathamesshh&theme=onedark&no-frame=true&row=1&column=7"/>`{=html}
-```{=html}
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamesshh&theme=tokyo-night&hide_border=true"/>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-# 🐍 Contribution Snake
+## 🏆 GitHub Achievements
 
-```{=html}
 <p align="center">
-```
-`<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>`{=html}
-```{=html}
+  <img src="https://github-profile-trophy.vercel.app/?username=prathamesshh&theme=onedark&no-frame=true&row=1&column=7"/>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-# 📊 LeetCode Stats
+## 🐍 Contribution Snake
 
-```{=html}
 <p align="center">
-```
-`<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap"/>`{=html}
-```{=html}
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-```
-*(Replace YOUR_LEETCODE_USERNAME with your actual LeetCode username)*
 
-------------------------------------------------------------------------
+---
 
-# 💻 Developer Mode
+## 📊 LeetCode Stats
 
-``` cpp
-while(alive)
-{
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Prathamesshh?theme=dark&font=Fira%20Code&ext=heatmap"/>
+</p>
+
+---
+
+## 💻 Developer Loop
+
+```cpp
+while (alive) {
     eat();
     sleep();
     code();
@@ -188,38 +147,49 @@ while(alive)
 }
 ```
 
-------------------------------------------------------------------------
+---
 
-# 🌐 Connect With Me
+## 📚 Currently Learning
 
-```{=html}
+```
+🔲 Deep Learning Architectures
+🔲 System Design & Scalability
+🔲 Advanced NLP Techniques
+🔲 Cloud Deployment (AWS / GCP)
+```
+
+---
+
+## 🎯 2025 Goals
+
+- [ ] 🌟 Contribute to 5+ open source projects
+- [ ] 🤖 Build and deploy a production AI application
+- [ ] 📖 Publish a technical blog or article
+- [ ] 🏆 Solve 500+ LeetCode problems
+- [ ] 🎓 Complete a Deep Learning specialization
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-```
-`<a href="https://www.linkedin.com/in/prathamesh-kurekar-68b48925b/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Prathamesh%20Kurekar-blue?style=for-the-badge&logo=linkedin"/>`{=html}
-`</a>`{=html}
-
-`<a href="mailto:prathameshkurekar01@gmail.com">`{=html}
-`<img src="https://img.shields.io/badge/Gmail-prathameshkurekar01@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}
-`</a>`{=html}
-
-`<a href="https://github.com/prathamesshh">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-prathamesshh-black?style=for-the-badge&logo=github"/>`{=html}
-`</a>`{=html}
-
-```{=html}
+  <a href="https://www.linkedin.com/in/prathamesh-kurekar-68b48925b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Prathamesh%20Kurekar-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  &nbsp;
+  <a href="mailto:prathameshkurekar01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-prathameshkurekar01@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/prathamesshh">
+    <img src="https://img.shields.io/badge/GitHub-prathamesshh-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-```{=html}
 <p align="center">
-```
-💡 **"The best way to learn programming is to build things."**
-
-⭐ If you like my work, consider starring my repositories!
-
-```{=html}
+  💡 <b>"The best way to learn programming is to build things."</b>
+  <br><br>
+  ⭐ If you find my work helpful, consider starring my repositories — it means a lot!
 </p>
-```
