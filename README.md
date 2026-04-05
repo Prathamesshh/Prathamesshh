@@ -150,8 +150,8 @@ while (alive) {
     <img src="https://img.shields.io/badge/LinkedIn-Prathamesh%20Kurekar-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   &nbsp;
-  <a href="mailto:prathameshkurekar01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-prathameshkurekar01@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:prathameshkurekar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-prathameshkurekar@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/prathamesshh">
