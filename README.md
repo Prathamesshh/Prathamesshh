@@ -74,19 +74,6 @@ Goal        : Build impactful software used by millions
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🤖 [Deepfake Detection System](#) | AI system to detect manipulated videos using deep learning | Python, TensorFlow, OpenCV | 🔄 Ongoing |
-| 🧠 [Next Word Prediction](#) | NLP model using RNN/LSTM for sequence prediction | TensorFlow, Keras, NLP | ✅ Complete |
-| 🏙 [Smart City IoT Review](#) | Research paper on scalable IoT architecture for smart cities | IoT, Research | 🔄 In Progress |
-| 🌐 [Full Stack Web Apps](#) | Interactive websites and dashboards with modern UI | React, JavaScript, CSS | 🔄 Ongoing |
-
-
----
-
-
 ## 🔥 Contribution Streak
 
 <p align="center">
