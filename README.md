@@ -43,19 +43,6 @@ Goal        : Build impactful software used by millions
 
 ---
 
-## 💡 Developer Mindset
-
-> *"Code is not just instructions for machines — it's a tool to solve real human problems."*
-
-| Principle | Description |
-|-----------|-------------|
-| 🏗 Build | Create meaningful products that make a difference |
-| 📚 Learn | Stay ahead of the evolving tech landscape |
-| ⚙️ Scale | Design systems built to grow |
-| 🚀 Ship | Turn ideas into working software |
-
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
