@@ -77,46 +77,6 @@ Goal        : Build impactful software used by millions
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## 📊 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Prathamesshh?theme=dark&font=Fira%20Code&ext=heatmap"/>
-</p>
-
----
-
-## 💻 Developer Loop
-
-```cpp
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-```
-
----
-
-## 📚 Currently Learning
-
-```
-🔲 Deep Learning Architectures
-🔲 System Design & Scalability
-🔲 Advanced NLP Techniques
-🔲 Cloud Deployment (AWS / GCP)
-```
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -135,8 +95,3 @@ while (alive) {
 
 ---
 
-<p align="center">
-  💡 <b>"The best way to learn programming is to build things."</b>
-  <br><br>
-  ⭐ If you find my work helpful, consider starring my repositories — it means a lot!
-</p>
