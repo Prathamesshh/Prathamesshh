@@ -32,10 +32,10 @@ Location    : India
 Focus       :
   - Artificial Intelligence
   - Machine Learning
-  - Full Stack Development
-  - Open Source
-Learning    :
   - Deep Learning
+  - Agentic AI
+  - Transformers
+Learning    :
   - System Design
   - Scalable Web Applications
 Goal        : Build impactful software used by millions
@@ -57,22 +57,6 @@ Goal        : Build impactful software used by millions
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prathamesshh&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamesshh&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
