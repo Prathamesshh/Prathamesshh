@@ -5,17 +5,6 @@
 <h1 align="center">💻 prathamesh@github</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Booting+Developer+Profile...;Developer;AI+%26+Machine+Learning+Explorer;Open+Source+Contributor;Building+Real+World+Projects;Always+Learning+New+Things"/>
-</p>
-
-```
-> initializing developer_profile.exe
-> loading skills................. ✔
-> loading projects............... ✔
-> launching dashboard............ ✔
-```
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=prathamesshh&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/prathamesshh?style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/prathamesshh?style=for-the-badge"/>
